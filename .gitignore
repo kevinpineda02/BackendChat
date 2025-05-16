@@ -1,0 +1,16 @@
+# Dependencias de Node.js (no subir node_modules)
+node_modules/
+
+# Variables de entorno
+.env
+
+# Logs de npm/yarn
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos temporales de tu editor o sistema
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
